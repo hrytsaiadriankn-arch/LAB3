@@ -1,0 +1,36 @@
+﻿  Array.cpp
+D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.cpp(6,11): error C2995: 'Array<T>::Array(void)': function template has already been defined
+  (compiling source file '/Array.cpp')
+      D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.h(19,5):
+      see declaration of 'Array<T>::Array'
+  
+D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.cpp(12,11): error C2995: 'Array<T>::Array(int,const T &)': function template has already been defined
+  (compiling source file '/Array.cpp')
+      D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.h(20,5):
+      see declaration of 'Array<T>::Array'
+  
+D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.cpp(24,16): error C2995: 'void Array<T>::rangeCheck(int) const': function template has already been defined
+  (compiling source file '/Array.cpp')
+      D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.h(16,10):
+      see declaration of 'Array<T>::rangeCheck'
+  
+D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.cpp(31,15): error C2995: 'int Array<T>::GetCount(void) const': function template has already been defined
+  (compiling source file '/Array.cpp')
+      D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.h(22,9):
+      see declaration of 'Array<T>::GetCount'
+  
+D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.cpp(37,15): error C2995: 'int Array<T>::GetMaxSize(void) const': function template has already been defined
+  (compiling source file '/Array.cpp')
+      D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.h(23,9):
+      see declaration of 'Array<T>::GetMaxSize'
+  
+D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.cpp(43,14): error C2995: 'T &Array<T>::operator [](int)': function template has already been defined
+  (compiling source file '/Array.cpp')
+      D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.h(25,8):
+      see declaration of 'Array<T>::operator []'
+  
+D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.cpp(50,20): error C2995: 'const T &Array<T>::operator [](int) const': function template has already been defined
+  (compiling source file '/Array.cpp')
+      D:\2 курс 1 семестр\LAB 3.5\UnitTest1\Array.h(26,14):
+      see declaration of 'Array<T>::operator []'
+  
