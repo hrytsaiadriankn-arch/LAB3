@@ -1,0 +1,6 @@
+﻿  SymString.cpp
+D:\2 курс 1 семестр\LAB 3.4\UnitTest1\SymString.cpp(160,15): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/SymString.cpp')
+  
+     Creating library D:\2 курс 1 семестр\LAB 3.4\Project1\x64\Debug\UnitTest1.lib and object D:\2 курс 1 семестр\LAB 3.4\Project1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\2 курс 1 семестр\LAB 3.4\Project1\x64\Debug\UnitTest1.dll
